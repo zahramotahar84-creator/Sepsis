@@ -10,7 +10,7 @@ This project focuses on the early prediction of sepsis using patient biometric d
 - Implemented a predictive pipeline for analyzing vital signs.
 - Achieved high sensitivity to ensure critical cases are not missed.
 - Focused on minimizing False Negatives to prioritize patient safety.
-- Accessing the database:
+## Accessing the database:
 The database file has been uploaded. First, download it, and then replace the path in the following line with the location of the downloaded file: `df = pd.read_csv('C:\\Users\\user\\Downloads\\sepsis.csv')`
 
 
@@ -28,7 +28,7 @@ The database file has been uploaded. First, download it, and then replace the pa
 - پیاده‌سازی خط لوله‌ای برای تحلیل علائم حیاتی بیمار.
 - دستیابی به حساسیت (Sensitivity) بالا برای اطمینان از شناسایی تمام موارد بحرانی.
 - تمرکز بر کاهش «منفی‌های کاذب» (False Negatives) برای حفظ جان بیماران.
-دسترسی به دیتابیس(Data base):
+  ##دسترسی به دیتابیس(Data base):
 فایل دیتابیس آپلود شده است .در ابتدا آن را دانلود کرده و سپس در آدرس فایل دانلود شده را درخط :df = pd.read_csv('C:\\Users\\user\\Downloads\\sepsis.csv') جایگزین می کنید.
 
 
